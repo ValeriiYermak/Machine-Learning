@@ -1,0 +1,3 @@
+california_housing = fetch_california_housing(as_frame=True)
+data = california_housing['frame']
+data.head()
