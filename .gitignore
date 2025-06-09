@@ -1,0 +1,24 @@
+# Ігноруємо віртуальне середовище
+env/
+venv/
+
+# Ігноруємо файли кешу Python
+__pycache__/
+*.pyc
+
+# Ігноруємо налаштування IDE (наприклад, PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Ігноруємо файли бази даних для Django
+db.sqlite3
+
+# Ігноруємо файли, які генеруються під час виконання
+*.log
+
+# Ігноруємо директорію "Wrong Files"
+Wrong Files/
+
+# Ігноруємо файл requirements.txt в папці Num_prog
+.requirements.txt
+ESC-50-master/
